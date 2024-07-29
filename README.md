@@ -1,6 +1,6 @@
 目标介绍
 
-AI智讯日常用电管理助手是一款基于lnterLM的智能体，目标是实现： 更加智能、高效地管理家庭或企业的日常用电，实现节能减排。 InternLM教程[link]https://github.com/InternLM/Tutorial
+AI智讯日常用电管理助手是一款基于lnternLM的智能体，目标是实现： 更加智能、高效地管理家庭或企业的日常用电，实现节能减排。 InternLM教程[link]https://github.com/InternLM/Tutorial/discussions/1162
 
 功能
 
